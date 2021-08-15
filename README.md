@@ -1,4 +1,5 @@
 /* Um Mecânico no Espaço */
+/* teste 1*/
 
 #include <stdio.h>
 #include <allegro5/allegro.h>
